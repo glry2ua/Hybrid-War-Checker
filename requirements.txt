@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+pdfminer.six
+sentence-transformers     # if you go local
+faiss-cpu                 # if you go local
+google-cloud-aiplatform   # for Vertex calls
