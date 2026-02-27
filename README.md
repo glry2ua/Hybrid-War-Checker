@@ -1,8 +1,7 @@
 # HybridWarRAG
 
 ## Overview  
-This project implements a Retrieval-Augmented-Generation (RAG) pipeline to answer  
-“Is my country currently in a hybrid war?” using official-source texts.
+Hybrid wars are hard to detect at the begining stages, and harder to fight in the late stages of their implimentation. This project implements a Retrieval-Augmented-Generation (RAG) pipeline to answer “Is my country currently in a hybrid war?” using official-source texts. 
 
 ## Structure  
 - `data/raw_pdfs/`  
